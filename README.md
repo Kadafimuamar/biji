@@ -1,10 +1,3 @@
-git clone https://github.com/izinsimpan/catizen.git
-
-cd catizen
-
-unzip *zip
-
-npm install
 
 
 #Run
